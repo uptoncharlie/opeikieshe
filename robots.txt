@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeibiowaiv.meetthefacts.eu/sitemap.xml
